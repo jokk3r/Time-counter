@@ -4,9 +4,7 @@
 
 Create a coming soon webpage. The page should show a count down of days, hours, minutes, and seconds. 
 
-  - create a countdown
-  - should be a class
-  - accepts:
+  - make sure you use a class that accepts:
     - selector
     - end-date
 - for easier date handling you can use [momentjs](https://momentjs.com)
