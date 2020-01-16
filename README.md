@@ -2,7 +2,7 @@
 
 ### Coming Soon Page
 
-Create a coming soon webpage. The page should show a count down of days, hours, minutes, and seconds. 
+Using the [Boilerplate](./template.md) provided, create a coming soon webpage. The page should show a count down of days, hours, minutes, and seconds. 
 
   - make sure you use a class that accepts:
     - selector
@@ -14,10 +14,9 @@ Create a coming soon webpage. The page should show a count down of days, hours, 
  
  ![https://dribbble.com/shots/5188890-Modern-Coming-Soon-Template](./comingsoon.png)
 
-
-
-
 ### Rules
 
 -   This is an individual assignment.
 -   Deadline: 2 hours.
+
+
