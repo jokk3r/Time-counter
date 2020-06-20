@@ -7,7 +7,7 @@ Using the [Boilerplate](./template.md) provided, create a coming soon webpage. T
   - make sure you use a class that accepts:
     - selector
     - end-date
-  - That means the countdown should be called like this: ```new CountDown("#countdown", { year: 2020, month: 2, day: 4, hour: 16 })```
+  - That means the countdown should be initilized like this: ```new CountDown("#countdown", { year: 2020, month: 2, day: 4, hour: 16 })```
 
 - for easier date handling you can use [momentjs](https://momentjs.com)
 
@@ -22,7 +22,7 @@ Using the [Boilerplate](./template.md) provided, create a coming soon webpage. T
 
 ### Hints
 
-- if you forgot how classes in JavaScript look like, that a look at https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes
+- if you forgot how classes in JavaScript look like, take a look at https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes
 - you will need the function ```setInterval()```
 - In case you use momentjs: This library has a documentation (https://momentjs.com/docs/). You will propably need the ```durations``` method (https://momentjs.com/docs/#/durations/)
 - you DON'T need to use momentum.js. You can use any other library or implement it without any library
